@@ -1,0 +1,51 @@
+[
+  {
+    "image_id": 2,
+    "objects": [
+      {
+        "object_id": 1023847,
+        "x": 405,
+        "y": 34,
+        "w": 78,
+        "h": 438,
+        "name": "pole",
+        "synsets": [
+          "pole.n.01"
+        ]
+      },
+      {
+        "object_id": 1023836,
+        "x": 239,
+        "y": 347,
+        "w": 136,
+        "h": 126,
+        "name": "car",
+        "synsets": [
+          "car.n.01"
+        ]
+      }
+    ],
+    "relationships": [
+      {
+        "predicate": "NO",
+        "relationship_id": 13792,
+        "object": {
+          "name": "street",
+          "object_id": 343344,
+          "h": "",
+          "w": "",
+          "x": "",
+          "y": ""
+        },
+        "subject": {
+          "name": "street",
+          "object_id": 343243,
+          "h": "",
+          "w": "",
+          "x": "",
+          "y": ""
+        }
+      }
+    ]
+  }
+]
